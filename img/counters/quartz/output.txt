@@ -1,0 +1,1190 @@
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/080214-5.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">080214-5</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/080214-5.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/111219-4.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">111219-4</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/111219-4.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/1196.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">1196</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/1196.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/120529-1_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">120529-1_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/120529-1_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/120530-1.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">120530-1</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/120530-1.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/120902.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">120902</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/120902.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/131019-5_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">131019-5_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/131019-5_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/1478.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">1478</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/1478.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/1504 (1).jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">1504 (1)</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/1504 (1).jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/1504.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">1504</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/1504.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/1532.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">1532</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/1532.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/1540.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">1540</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/1540.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/1565_L.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">1565_L</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/1565_L.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/1697.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">1697</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/1697.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2011.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2011</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2011.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2012_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2012_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2012_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2013.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2013</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2013.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2014_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2014_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2014_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2015.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2015</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2015.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2016.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2016</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2016.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2017_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2017_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2017_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2019 (1).jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2019 (1)</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2019 (1).jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2020.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2020</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2020.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2022 (1).jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2022 (1)</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2022 (1).jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2024.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2024</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2024.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2025_L.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2025_L</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2025_L.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2026 (1).jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2026 (1)</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2026 (1).jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2027.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2027</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2027.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2031.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2031</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2031.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2032.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2032</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2032.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2033_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2033_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2033_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2034_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2034_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2034_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/2035_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">2035_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/2035_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/3001.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">3001</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/3001.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/3002_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">3002_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/3002_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/3003_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">3003_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/3003_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/3004_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">3004_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/3004_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/3005_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">3005_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/3005_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/3007_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">3007_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/3007_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4002_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4002_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4002_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4003_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4003_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4003_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4004 (1).jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4004 (1)</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4004 (1).jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4005_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4005_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4005_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4006.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4006</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4006.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4008.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4008</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4008.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4012.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4012</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4012.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4017_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4017_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4017_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4019_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4019_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4019_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4020_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4020_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4020_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/4021_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">4021_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/4021_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/5011.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">5011</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/5011.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/5013.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">5013</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/5013.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/5014_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">5014_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/5014_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/5015.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">5015</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/5015.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/5016_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">5016_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/5016_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/5017_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">5017_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/5017_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/5018_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">5018_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/5018_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/538_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">538_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/538_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/547_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">547_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/547_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/560.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">560</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/560.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/6001_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">6001_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/6001_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/6002.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">6002</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/6002.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/6003.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">6003</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/6003.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/6004.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">6004</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/6004.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/612_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">612_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/612_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/674.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">674</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/674.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/682_Large.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">682_Large</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/682_Large.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/694.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">694</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/694.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/703.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">703</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/703.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
+<div data-category="red" class="red element">
+  <div class="filter_img">
+      <div class="wrapped_img portfolio_item">
+          <img src="img/counters/quartz/preview/nEO_IMG_551SH.jpg" alt="" width="570" height="570">
+          <div class="portf_shape"></div>
+          <div class="portfolio_descr">
+              <div class="portfolio_title"><h6><a href="portfolio_post1.html">nEO_IMG_551SH</a></h6></div>
+              <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+              <div class="portfolio_btns">
+                  <a href="img/counters/quartz/nEO_IMG_551SH.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                  <a href="portfolio_post1.html" class="link_ico">link</a>
+              </div>
+          </div>
+      </div>
+  </div>
+</div><!-- .element -->
+
