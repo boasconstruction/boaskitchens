@@ -28,6 +28,8 @@
     }
 </script><![endif]-->
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="js/sorting.js"></script>
 <script>
 $(function(){
 	$("#header").load("header.html");
@@ -37,7 +39,7 @@ $(function(){
 </head>
 <body>
 	<div class="main_wrapper">
-		<div id="header"></div>
+        <div id="header"></div>
 
         <!-- C O N T E N T -->
         <div class="content_wrapper">
@@ -49,131 +51,384 @@ $(function(){
                                 <div class="contentarea">
 
                                     <div class="row-fluid">
-                                        <div class="span12">
-                                            <h1 class="headInModule single_post">Projects</h1>
+                                        <div class="span12 module_cont module_text_area">
+                                            <h1 class="headInModule">Projects</h1>
+                                            <hr class="content_type">
                                         </div>
                                     </div><!-- .row-fluid -->
 
                                     <div class="row-fluid">
-                                        <div class="span12 module_cont module_blog module_none_padding">
-                                        	<div class="blog_post_preview portf_layout layout01">
-                                                <div class="featured_image_full wrapped_img module_revolution_slider">
-                                                    <script type="text/javascript" src="js/jquery.themepunch.plugins.min.js"></script>
-                                                    <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
-                                                    <div class="bannercontainer">
-                                                        <div class="banner">
-                                                            <ul>
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/68A-AVE-LANGLEY-NO.1.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/68A-AVE-LANGLEY-NO.2.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/68A-AVE-LANGLEY-NO.4.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/8675-no.1.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/8675-no.2.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/burnaby-NO1-small.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/burnaby-NO1.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA NO.2.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA NO.3.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA NO.4.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA NO.5.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA-NO.1-small.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA-NO.1.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA-NO.14.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA-NO.15.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/GLENORA-NO.20.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/parkside-no.1.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/parkside-no.2.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/parkside-no.3.jpg" alt=""/>
-																																</li>
-
-																																<li data-masterspeed="400" data-slotamount="7" data-transition="fade">
-																																    <img src="img/projects/산꼭대기-NO.5.jpg" alt=""/>
-																																</li>
+                                        <div class="span12 module_cont module_portfolio">
+                                            <!-- <div class="filter_block">
+                                                <div class="filter_navigation">
+                                                    <ul id="options" class="splitter">
+                                                        <li>
+                                                            <ul data-option-key="filter" class="optionset">
+                                                                <li class="selected"><a data-option-value="*" href="#filter">All Works</a></li>
+                                                                <li><a title="View all post filed under Red" data-option-value=".red" href="#filter">red</a></li>
+                                                                <li><a title="View all post filed under Yellow" data-option-value=".yellow" href="#filter">yellow</a></li>
+                                                                <li><a title="View all post filed under Green" data-option-value=".green" href="#filter">green</a></li>
+                                                                <li><a title="View all post filed under Blue" data-option-value=".blue" href="#filter">blue</a></li>
+                                                                <li><a title="View all post filed under Other" data-option-value=".other" href="#filter">other</a></li>
                                                             </ul>
-                                                        </div>
-                                                    </div>
-                                                    <script type="text/javascript">
-                                                        jQuery(document).ready(function() {
-                                                            jQuery('.banner').revolution({
-                                                                delay:5000,
-                                                                startwidth: 1170,
-                                                                startheight: 800,
-                                                                navigationType:"none",					//bullet, thumb, none, both	 (No Shadow in Fullwidth Version !)
-                                                                navigationArrows:"verticalcentered",				//nexttobullets, verticalcentered, none
-                                                                touchenabled:"on",						// Enable Swipe Function : on/off
-                                                                onHoverStop:"on",						// Stop Banner Timet at Hover on Slide on/off
-                                                                shadow:0,								//0 = no Shadow, 1,2,3 = 3 Different Art of Shadows  (No Shadow in Fullwidth Version !)
-                                                                fullWidth:"off"							// Turns On or Off the Fullwidth Image Centering in FullWidth Modus
-                                                            });
-                                                        });
-                                                    </script>
+                                                        </li>
+                                                    </ul>
                                                 </div>
+                                            </div> -->
 
+                                            <div class="simple_portfolio">
+                                                <div class="portfolio_block image-grid columns3" id="list">
 
-                                            </div><!--.blog_post_preview -->
-                                        </div>
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/68A-AVE-LANGLEY-NO.1.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">68A-AVE-LANGLEY-NO.1</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/68A-AVE-LANGLEY-NO.1.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/68A-AVE-LANGLEY-NO.2.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">68A-AVE-LANGLEY-NO.2</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/68A-AVE-LANGLEY-NO.2.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/68A-AVE-LANGLEY-NO.4.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">68A-AVE-LANGLEY-NO.4</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/68A-AVE-LANGLEY-NO.4.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/8675-no.1.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">8675-no.1</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/8675-no.1.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/8675-no.2.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">8675-no.2</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/8675-no.2.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/burnaby-NO1-small.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">burnaby-NO1-small</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/burnaby-NO1-small.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/burnaby-NO1.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">burnaby-NO1</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/burnaby-NO1.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA NO.2.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA NO.2</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA NO.2.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA NO.3.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA NO.3</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA NO.3.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA NO.4.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA NO.4</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA NO.4.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA NO.5.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA NO.5</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA NO.5.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA-NO.1-small.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA-NO.1-small</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA-NO.1-small.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA-NO.1.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA-NO.1</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA-NO.1.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA-NO.14.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA-NO.14</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA-NO.14.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA-NO.15.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA-NO.15</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA-NO.15.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/GLENORA-NO.20.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">GLENORA-NO.20</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/GLENORA-NO.20.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/parkside-no.1.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">parkside-no.1</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/parkside-no.1.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/parkside-no.2.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">parkside-no.2</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/parkside-no.2.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/parkside-no.3.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">parkside-no.3</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/parkside-no.3.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+																									<div data-category="red" class="red element">
+																									    <div class="filter_img">
+																									        <div class="wrapped_img portfolio_item">
+																									            <img src="img/projects/preview/산꼭대기-NO.5.jpg" alt="" width="570" height="340">
+																									            <div class="portfolio_descr">
+																									                <div class="portfolio_title"><h6><a href="portfolio_post1.html">산꼭대기-NO.5</a></h6></div>
+																									                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+																									                <div class="portfolio_btns">
+																									                    <a href="img/projects/산꼭대기-NO.5.jpg" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+																									                    <a href="portfolio_post1.html" class="link_ico">link</a>
+																									                </div>
+																									            </div>
+																									        </div>
+																									    </div>
+																									</div>
+
+                                                </div><!-- .portfolio_block -->
+                                            </div><!-- //.simple_portfolio -->
+                                            <div class="clear"></div>
+
+																						<!-- <div class="load_more_cont"><a href="javascript:void(0)" class="btn_load_more get_portfolio_works_btn shortcode_button btn_normal btn_type1">Load more Works</a></div>
+                                            <script>
+                                                items_set = [	//Gallery Data
+
+                                                    {src : 'img/portfolio/rectangle/10.jpg', url : 'portfolio_post1.html', post_zoom : 'img/portfolio/rectangle/10.jpg', category: 'red', title : 'Cum sociis', description: '<p>Curabitur bibendum, ante sed bibendum.</p>'},
+                                                    {src : 'img/portfolio/rectangle/11.jpg', url : 'portfolio_post1.html', post_zoom : 'img/portfolio/rectangle/11.jpg', category: 'green', title : 'Aenean quis', description: '<p>Lorem ipsum dolor sit amet, consectetur.</p>'},
+                                                    {src : 'img/portfolio/rectangle/12.jpg', url : 'portfolio_post1.html', post_zoom : 'img/portfolio/rectangle/12.jpg', category: 'yellow', title : 'In habitasse', description: '<p>Curabitur bibendum, ante sed bibendum.</p>'},
+                                                    {src : 'img/portfolio/rectangle/13.jpg', url : 'portfolio_post1.html', post_zoom : 'img/portfolio/rectangle/13.jpg', category: 'blue', title : 'Vivamus aliquet', description: '<p>Lorem ipsum dolor sit amet, consectetur.</p>'},
+													{src : 'img/portfolio/rectangle/14.jpg', url : 'portfolio_post1.html', post_zoom : 'img/portfolio/rectangle/14.jpg', category: 'red', title : 'Cum sociis', description: '<p>Curabitur bibendum, ante sed bibendum.</p>'},
+                                                    {src : 'img/portfolio/rectangle/15.jpg', url : 'portfolio_post1.html', post_zoom : 'img/portfolio/rectangle/15.jpg', category: 'green', title : 'Aenean quis', description: '<p>Lorem ipsum dolor sit amet, consectetur.</p>'}
+
+                                                ];
+                                                jQuery('#list').portfolio_addon({
+                                                    type : 1, // 2-4 columns simple portfolio
+                                                    load_count : 3,
+                                                    items : items_set
+                                                });
+                                            </script> -->
+                                        </div><!-- .module_portfolio -->
                                     </div><!-- .row-fluid -->
-
-                                    <div class="back_to_portf"><a href="javascript:history.back()" class="btn_back shortcode_button btn_normal btn_type3">Back</a></div>
 
 
                                 </div><!-- .contentarea -->
                             </div>
                             <div class="left-sidebar-block span3">
-                                <aside class="sidebar">
+								<aside class="sidebar">
                                 </aside>
                             </div><!-- .left-sidebar -->
                         </div>
@@ -186,9 +441,10 @@ $(function(){
                     <div class="clear"><!-- ClearFix --></div>
                 </div>
             </div><!-- .container -->
-       </div><!-- .content_wrapper -->
+        </div>
+        <!-- .content_wrapper -->
 
-			 <div id="footer"></div>
+				<div id="footer"></div>
     </div><!-- //main_wrapper -->
     <script src="http://code.jquery.com/ui/1.10.2/jquery-ui.min.js" type="text/javascript"></script>
     <script type="text/javascript" src="js/theme.js"></script>

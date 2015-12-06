@@ -1,13 +1,25 @@
 import os
 
-str = """<li data-masterspeed="400" data-slotamount="7" data-transition="papercut">
-    <img src="img/projects/%s" alt=""/>
-</li>
+str = """<div data-category="red" class="red element">
+    <div class="filter_img">
+        <div class="wrapped_img portfolio_item">
+            <img src="img/projects/preview/%s" alt="" width="570" height="340">
+            <div class="portfolio_descr">
+                <div class="portfolio_title"><h6><a href="portfolio_post1.html">%s</a></h6></div>
+                <!-- <div class="portfolio_text">Quisque ut nisl et neque blandit quistum.</div> -->
+                <div class="portfolio_btns">
+                    <a href="img/projects/%s" class="prettyPhoto zoom_ico" rel="prettyPhoto[portfolio1]">zoom</a>
+                    <a href="portfolio_post1.html" class="link_ico">link</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 """
 
 for file in os.listdir("."):
     if file.endswith(".jpg"):
         name = os.path.splitext(file)[0]
-        print str % (file)
+        print str % (file, name, file)
 
 # print str
